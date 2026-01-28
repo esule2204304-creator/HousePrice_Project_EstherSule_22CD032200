@@ -1,0 +1,6 @@
+Name: Esther Sule
+Matric Number: 22CD032200
+Machine Learning Algorithm Used: Random Forest Regressor
+Model Persistence Method Used: Joblib
+Live URL of the Hosted Application: https://houseprice-project-esthersule-22cd032200-3i6h.onrender.com
+GitHub Repository Link: https://github.com/esule2204304-creator/HousePrice_Project_EstherSule_22CD032200
